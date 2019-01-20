@@ -1,0 +1,1 @@
+window.location = "http://farha-jawed.herokuapp.com/";
