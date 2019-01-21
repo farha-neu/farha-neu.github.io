@@ -1,1 +1,1 @@
-window.location = "http://farha-jawed.herokuapp.com/";
+window.location = "https://farhajawed.netlify.com/";
